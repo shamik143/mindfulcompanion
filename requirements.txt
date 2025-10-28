@@ -1,19 +1,8 @@
 Flask
-flask-cors
-transformers
-torch
-gunicorn
-flask
-flask-cors
-transformers
-torch
-torchaudio
-librosa
-soundfile
-Flask
 Flask-Cors
 gunicorn
 transformers
+--find-links https://download.pytorch.org/whl/cpu
 torch
 librosa
 numpy
